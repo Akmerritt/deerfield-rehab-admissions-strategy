@@ -1,10 +1,13 @@
-# Project Rehab Admissions Strategy: Scaling admissions volume for 11 addiction treatment and rehabilitation centers across the US
+# Project Rehab Admissions: Scaling admissions volume for 11 addiction treatment and rehabilitation centers across the US
 **A strategic product concept for Deerfield**
 
 ## 🎯 Executive summary
 This project...
 
 ---
+## 🚩 The Problem Statement
+
+----
 
 ## 🔍 Discovery phase
 To understand the challenges, I conducted a deep dive into company operations:
