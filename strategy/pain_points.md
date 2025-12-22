@@ -2,7 +2,7 @@
 
 After interviewing Sarah Chen and the Call Center staff, BDOs, and xx additional employees, I've identified and ranked the following pain points:
 
-| Priority | Pain Point | Description | Why it matters |
+| Priority | Insurance verification and pre-authorization | Description | Why it matters |
 | Priority | Pain Point | Description | Why it matters |
 | Priority | Pain Point | Description | Why it matters |
 | Priority | Pain Point | Description | Why it matters |
