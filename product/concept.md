@@ -26,14 +26,6 @@ This product directly addresses **Pain Point P0: Inadequate Referral Diversifica
 *   **Quality Metrics:** Transparency into completion rates and readmission data.
 *   **Doximity SSO:** Verified physician interface for rapid authentication.
 
-## Full-Continuum Lifecycle Management
-CareBridge is designed to manage the patient across the entire 12-month recovery journey, moving beyond the "Initial Admission" model to a "Longitudinal Care" model.
-
-*   **ASAM-Aligned Intake:** Standardized referral levels (4.0 through 1.0) to ensure patients are placed in the clinically appropriate level of care from day one.
-*   **Continuum Pulse Header:** Real-time capacity tracking across all service lines, including Detox, Residential, PHP, IOP, and Sober Living.
-*   **Visual Step-Down Roadmap:** A visualization within each patient profile that tracks the projected transition dates between clinical intensities, providing PCPs with a 90-day view of the recovery plan.
-*   **Gapless Transitions:** Integrated Sober Living and Aftercare tracking to ensure that the handoff from clinical treatment to community reintegration is managed without communication gaps.
-
 ## Interactive Prototype
 A live, functional preview of the CareBridge interface is available for review.
 
@@ -48,7 +40,7 @@ A live, functional preview of the CareBridge interface is available for review.
 *   **Compliance and security:** HIPAA/42-CFR compliant with end-to-end encryption for all PHI (Protected Health Information) and automated consent-to-release management for sensitive SUD records. 
 
 ## Key Features
-1.  **Continuum Capacity Pulse:** Live availability for Detox, Residential, PHP, IOP, and Sober Living.
+1.  **Real-Time Capacity:** Live availability for Detox, Residential, PHP, IOP, and Sober Living.
 2.  **Fast-Track Intake:** Capture Patient Name, DOB, and Insurance Photo in under 60 seconds.
 3.  **Referral Status Tracker:** A 7-stage funnel (Contacting patient → VOB → Clinical Assessment → Medically Cleared → Bed Reserved → Admitted → Discharged).
 4.  **Integrated Care Coordination:** Contextual, patient-tethered chat between PCPs and our Mission Center specialists.
