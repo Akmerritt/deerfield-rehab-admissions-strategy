@@ -37,4 +37,4 @@ I am prioritizing the CareBridge Clinical Referral Platform as the primary "Proo
 
 4. **Measurable 90-Day ROI:** CareBridge can be deployed as a "Thin Client" in 30 days, providing the Board with a measurable lift in admissions volume within a single quarter—something that a long-term cultural shift in staffing cannot provide.
 
-While the initial focus for MVP will be developing the portal, follow-on efforts can include development of the Knowledge Hub and feedback loops.
+While the initial focus for MVP will be developing the portal, follow-on efforts can include development of the Knowledge Hub and Feedback Loops.
