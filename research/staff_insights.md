@@ -93,8 +93,3 @@
  ## 6. Business development officer I, 4 years experience (BDOs)
 *   **Role:** Build relationships with therapists and psychiatrists.
 *   *   **Summary:** Focus on urban centers that have more resourcesand potential referral partners.
-
-## Key themes for product concept
-1. **xyz:**
-2. **xyz:**
-3. **xyz:**
