@@ -56,14 +56,7 @@ A 90-day mentorship program paired with interactive, role-specific training modu
 
 ---
 
-## Technical Components & Assumptions
-
-### Technical Logic
-*   **Frontend:** Next.js / Tailwind CSS; optimized for mobile "point-and-shoot" insurance uploads.
-*   **Backend:** Node.js (TypeScript) on AWS; utilizing AWS Textract for Insurance OCR.
-*   **Integrations:** Bi-directional **Salesforce Health Cloud** API for real-time CRM sync; **Fivetran** for clinical outcome analytics.
-
-### Key Assumptions
+## Key Assumptions
 1.  **Lead Intent:** Clinical referrals (PCPs/Therapists) have higher intent and longer length-of-stay (LOS) than digital leads, justifying the investment in a dedicated channel.
 2.  **Thin Client:** CareBridge acts as the "Face" while Salesforce/Five9 remains the "Brain" (System of Record). No duplicative database is required.
 3.  **Data Interoperability:** All 11 centers utilize EMR/CRM systems that support standard API integrations for real-time syncing.
