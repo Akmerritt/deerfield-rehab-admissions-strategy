@@ -1,4 +1,4 @@
-# Strategic Solutions: Growth & Operations
+# Solution Ideas: Growth & Operations
 *Tiered solutions designed to scale admissions volume and stabilize internal infrastructure.*
 
 ## 1. Channel Diversification (Addressing P0)
