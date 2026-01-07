@@ -78,4 +78,4 @@ A 90-day mentorship program paired with interactive, role-specific training modu
 *   **Phase 3 (Days 60-90):** Scale portal to all 11 centers; launch the Knowledge Hub to deepen clinical partnerships and drive long-term referral loyalty.
 
 ---
-**Contact:** [Your Name] | [LinkedIn Link] | [Portfolio Link]
+**Contact:** [Anne Merritt]
