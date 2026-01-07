@@ -55,10 +55,16 @@ A live, functional preview of the CareBridge interface is available for review.
 5.  **Discharge Loop:** Automated Medication Reconciliation and scheduled follow-up appointments pushed back to the PCP.
 
 ## 30-Day Pilot KPIs (Success Metrics)
-*   **Referral Velocity:** % increase in net-new clinical referrals.
-*   **Conversion Rate:** Lift in lead-to-admission conversion vs. manual channels.
-*   **VOB Latency:** Reduction in average hours to verify insurance benefits.
-*   **BDO Productivity:** Reduction in administrative hours per lead.
+
+| KPI | Metric | Strategic Purpose |
+| :--- | :--- | :--- |
+| **1. Referral Velocity** | % Increase in net-new clinical referrals. | **Solves P0:** Proves we are successfully diversifying channels and capturing PCP/Therapist demand. |
+| **2. Admission Conversion** | Lift in lead-to-admission rate vs. traditional channels. | **Proves Quality:** Validates the assumption that clinical leads have higher "intent to admit" than digital leads. |
+| **3. VOB Latency** | Reduction in avg. hours to verify insurance benefits. | **Solves P2:** Targets a reduction from **24–48 hours down to <2 hours** via AI-OCR automation. |
+| **4. BDO Productivity** | Reduction in administrative hours per lead. | **Solves P1/P4:** Measures how much time BDOs save on paperwork, allowing them more "boots-on-the-ground" time. |
+| **5. Platform Adoption** | Repeat usage rate of participating PCPs. | **Proves Trust:** Measures "stickiness"—if a doctor uses it twice in 30 days, the Knowledge Hub and Discharge Loop are working. |
+
+---
 
 ## Key Assumptions
 *   **Data Interoperability:** We assume CareBridge functions as a front-end for Salesforce; all records of truth reside in the existing CRM.
