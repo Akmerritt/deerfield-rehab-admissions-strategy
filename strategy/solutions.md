@@ -25,6 +25,8 @@ Modernizing the MC training from generic tutorials to interactive, role-specific
 A 90-day structured mentorship where veteran staff guide new hires, incentivized by "Lead" titles and stipends.
 *   **Impact:** Preserves institutional knowledge and creates a visible career path to reduce turnover.
 
+## Focus Area
+
 I am prioritizing the CareBridge Clinical Referral Platform as the primary "Proof of Concept" for the Board based on the following rationale:
 
 1. **Direct Volume Impact (P0):** The primary crisis identified by the CEO and Sarah Chen is a 24-month decline in call volume (Upper Funnel). While staffing instability (P1) is a long-term risk, our current data shows that conversion rates have not yet dropped due to staffing inefficiencies. This indicates the "middle funnel" is still holding, and our immediate focus must be on generating new, high-intent demand.
