@@ -13,7 +13,7 @@ Over the last 24 months, the addiction treatment centers have had low admissions
 
 ## Research
 To understand the challenges, I conducted a deep dive into company operations:
-*   **Strategic Overview:** [Interview with Sarah Chen (Chief of Staff)](./research/sarah_chen_interview.md) – Focused on the 75% BDO-led admission goal.
+*   **Strategic Overview:** [Interview with Sarah Chen (Chief of Staff)] – Focused on the 75% BDO-led admission goal.
 *   **Frontline Research:** [Staff Insights (Call Center & BDOs)](./research/staff_insights.md) – Identified 24-hour insurance latency and manual data entry as primary drivers of lead drop-off.
 
 ---
