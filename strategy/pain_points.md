@@ -18,7 +18,7 @@ Based on research into the 11-center portfolio, the primary driver of declining 
 
 To meet the growth targets, we are focusing on **P0** and **P1**. Increasing clinical referral volume is the most scalable path to ROI, but success is contingent on stabilizing the Mission Center staff to handle the increased throughput.
 
-Although **P2** and **P3** are important, conversion rates have remained steady at 10-15% and above industry standards of 8-12% indicating there is not an immediate issue in the middle ofthe funnel.
+Although **P2** and **P3** are important, conversion rates have remained steady at 10-15% and above industry standards of 8-12% indicating there is not an immediate issue in the middle of the funnel due to operational inefficiences.
 
-**P4** is high risk / high reward, and will need to be piloted to better understand impact before further investment. This can be done as a follow-on effort if there is product-market fit and sufficient growth opportunity, using CareBridge as a platform to coordinate home care services.
+**P4** is high risk / high reward initiative. It will need to be piloted to better understand impact before further investment. This can be done as a follow-on effort if there is product-market fit and sufficient growth opportunity, using CareBridge as a platform to coordinate home care services.
 
