@@ -49,8 +49,8 @@ A live, functional preview of the CareBridge interface is available for review.
 
 ## Key Features
 1.  **Continuum Capacity Pulse:** Live availability for Detox, Residential, PHP, IOP, and Sober Living.
-2.  **Fast-Track Intake:** capture Name, DOB, and Insurance Photo in under 60 seconds.
-3.  **Referral Status Tracker:** A 7-stage funnel (VOB → Assessment → Cleared → Bed Reserved → Admitted).
+2.  **Fast-Track Intake:** Capture Patient Name, DOB, and Insurance Photo in under 60 seconds.
+3.  **Referral Status Tracker:** A 7-stage funnel (Contacting patient → VOB → Clinical Assessment → Medically Cleared → Bed Reserved → Admitted → Discharged).
 4.  **Integrated Care Coordination:** Contextual, patient-tethered chat between PCPs and our Mission Center specialists.
 5.  **Discharge Loop:** Automated Medication Reconciliation and scheduled follow-up appointments pushed back to the PCP.
 
