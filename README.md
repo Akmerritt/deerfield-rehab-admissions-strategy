@@ -47,7 +47,7 @@ A 90-day mentorship program paired with interactive, role-specific training modu
 ## 🚀 Deliverable 3: Product Concept — CareBridge
 **The Solution:** A HIPAA-compliant interface that bridges the referring physician, the Business Development Officer (BDO), and the Mission Center.
 
-*   **[Interactive Prototype: View Live Demo]([https://your-live-demo-link.vercel.app](https://v0.app/chat/care-bridge-ui-shZ16yHAVKM?ref=L36LBK))**
+*   **Interactive Prototype: [View Live Demo](https://v0.app/chat/care-bridge-ui-shZ16yHAVKM?ref=L36LBK)**
 *   **Access Code:** `Deerfield2025`
 
 ### Key Features:
