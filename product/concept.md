@@ -45,7 +45,7 @@ A live, functional preview of the CareBridge interface is available for review.
 *   **Frontend:** Next.js / Tailwind CSS (Optimized for Mobile/Tablet "point-and-shoot" insurance uploads).
 *   **Backend:** Node.js (TypeScript) on AWS; leveraging **AWS Textract (OCR)** for instant insurance card parsing.
 *   **Integrations:** Bi-directional **Salesforce Health Cloud** API for real-time status syncing; **Fivetran/Snowflake** for outcome analytics.
-*   **Compliance and security:** HIPAA Compliant with end-to-end encryption for all PHI (Protected Health Information), 42 CFR Part 2 with automated consent-to-release management for sensitive SUD records.
+*   **Compliance and security:** HIPAA/42-CFR compliant with end-to-end encryption for all PHI (Protected Health Information) and automated consent-to-release management for sensitive SUD records. 
 
 ## Key Features
 1.  **Continuum Capacity Pulse:** Live availability for Detox, Residential, PHP, IOP, and Sober Living.
