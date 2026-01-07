@@ -1,5 +1,5 @@
 # Ranked Pain Points: Admissions & Operations
-*A prioritized analysis of the bottlenecks driving the 24-month decline in patient call volume.*
+*A prioritized analysis of the pain points driving the decline in call volume and low admission volume.*
 
 ## Context
 Based on research into the 11-center portfolio, the primary driver of declining admissions is an upper-funnel channel problem. We are over-reliant on stagnant ER referrals and are failing to capture growing demand from clinical partners (PCPs/Therapists).
