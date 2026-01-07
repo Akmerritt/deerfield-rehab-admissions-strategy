@@ -4,7 +4,7 @@
 > **A strategic product concept to increase admissions volume across 11 national addiction treatment centers.**
 
 ## Executive Summary
-A Deerfield portfolio company is looking to increase its admissions volume across their 11 treatment addiction centers. The company has seen a decline in patient call volume over the last 24 months, in a setting of increased competition, growing demand for homecare services, and changes in how patients are seeking treatment with a shift towards digital channels. 
+A Deerfield portfolio company is looking to increase admissions volume across its 11 treatment addiction centers in the US. The company has seen a decline in patient call volume over the last 24 months, in a setting of increased competition, growing demand for homecare services, and changes in how patients are seeking treatment with a shift towards digital channels. 
 
 In order to achieve their growth target, they will need to  expand their channel strategy to target high-intent clinical referrals (PCPs and therapists). 
 
