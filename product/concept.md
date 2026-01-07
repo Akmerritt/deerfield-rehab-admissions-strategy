@@ -31,8 +31,8 @@ CareBridge is designed to manage the patient across the entire 12-month recovery
 
 *   **ASAM-Aligned Intake:** Standardized referral levels (4.0 through 1.0) to ensure patients are placed in the clinically appropriate level of care from day one.
 *   **Continuum Pulse Header:** Real-time capacity tracking across all service lines, including Detox, Residential, PHP, IOP, and Sober Living.
-*   **Visual Step-Down Roadmap:** A "Subway Map" visualization within each patient profile that tracks the projected transition dates between clinical intensities, providing PCPs with a 90-day view of the recovery plan.
-*   **Gapless Transitions:** Integrated Sober Living and Aftercare tracking to ensure that the handoff from clinical treatment to community reintegration is managed without a "Black Hole" period of non-communication.
+*   **Visual Step-Down Roadmap:** A visualization within each patient profile that tracks the projected transition dates between clinical intensities, providing PCPs with a 90-day view of the recovery plan.
+*   **Gapless Transitions:** Integrated Sober Living and Aftercare tracking to ensure that the handoff from clinical treatment to community reintegration is managed without communication gaps.
 
 ## Interactive Prototype
 A live, functional preview of the CareBridge interface is available for review.
