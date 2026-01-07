@@ -15,7 +15,7 @@ Based on research into the 11-center portfolio, the primary driver of declining 
 | **P4** | Operations | **Ineffective Resource Allocation** | **Low:** Avoidable spikes in call wait times during peak hours. |
 
 ## Focus Area
-I am prioritizing the CareBridge Clinical Referral Platform as the primary "Proof of Concept" for the Board based on the following strategic logic:
+I am prioritizing the CareBridge Clinical Referral Platform as the primary "Proof of Concept" for the Board based on the following rationale:
 
 1. **Direct Volume Impact (P0):** The primary crisis identified by the CEO and Sarah Chen is a 24-month decline in call volume (Upper Funnel). While staffing instability (P1) is a long-term risk, our current data shows that conversion rates have not yet dropped due to staffing inefficiencies. This indicates the "middle funnel" is still holding, and our immediate focus must be on generating new, high-intent demand.
 
