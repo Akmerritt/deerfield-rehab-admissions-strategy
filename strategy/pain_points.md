@@ -17,13 +17,12 @@ Based on research into the 11-center portfolio, the primary driver of declining 
 ## Focus Area
 I am prioritizing the CareBridge Clinical Referral Platform as the primary "Proof of Concept" for the Board based on the following strategic logic:
 
-Direct Volume Impact (P0): The primary crisis identified by the CEO and Sarah Chen is a 24-month decline in call volume (Upper Funnel). While staffing instability (P1) is a long-term risk, our current data shows that conversion rates have not yet dropped due to staffing inefficiencies. This indicates the "middle funnel" is still holding, and our immediate focus must be on generating new, high-intent demand.
+1. **Direct Volume Impact (P0):** The primary crisis identified by the CEO and Sarah Chen is a 24-month decline in call volume (Upper Funnel). While staffing instability (P1) is a long-term risk, our current data shows that conversion rates have not yet dropped due to staffing inefficiencies. This indicates the "middle funnel" is still holding, and our immediate focus must be on generating new, high-intent demand.
 
-Leveraging Existing Initiatives: A mentorship pilot is already underway at the centers. Rather than introducing a duplicative personnel program, CareBridge offers a new, tech-enabled growth lever that the portfolio currently lacks.
+2. **Leveraging Existing Initiatives:** A mentorship pilot is already underway at the centers. Rather than introducing a duplicative personnel program, CareBridge offers a new, tech-enabled growth lever that the portfolio currently lacks.
 
-Efficiency as a Retention Tool: CareBridge addresses P1 (Staffing) indirectly by automating the most tedious parts of the intake process (Insurance OCR and data entry). By reducing the "tool fatigue" and administrative burden on the Mission Center, we improve staff morale and reduce the burnout that leads to turnover.
+3. **Efficiency as a Retention Tool:** CareBridge addresses P1 (Staffing) indirectly by automating the most tedious parts of the intake process (Insurance OCR and data entry). By reducing the "tool fatigue" and administrative burden on the Mission Center, we improve staff morale and reduce the burnout that leads to turnover.
 
-Measurable 90-Day ROI: CareBridge can be deployed as a "Thin Client" in 30 days, providing the Board with a measurable lift in admissions volume within a single quarter—something that a long-term cultural shift in staffing cannot provide.
-
+4. **Measurable 90-Day ROI:** CareBridge can be deployed as a "Thin Client" in 30 days, providing the Board with a measurable lift in admissions volume within a single quarter—something that a long-term cultural shift in staffing cannot provide.
 
 To address the CEO's growth targets, we are focusing on **P0** and **P1**. Increasing clinical referral volume is the most scalable path to ROI, but success is contingent on stabilizing the Mission Center staff to handle the increased throughput.
