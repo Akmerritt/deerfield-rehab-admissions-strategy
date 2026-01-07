@@ -9,7 +9,7 @@ A Deerfield portfolio company is looking to increase its admissions volume acros
 ---
 
 ## Problem Statement
-Admissions volume is low primarily due to a decline in patient calls, in a climate of increased competition and growing demand for homecare services. This is an **upper-funnel channel problem**: the portfolio is over-reliant on stagnant ER leads and lacks a frictionless digital pathway to capture the growing referral demand from PCPs and therapists.
+Over the last 24 months, the addiction treatment centers have had low admissions volume, due primarily to a decline in patient calls in a climate of increased competition and growing demand for homecare services. This is primarily an **upper-funnel channel problem**: the portfolio is over-reliant on ER leads and has not captured the growing referral demand from PCPs and therapists.
 
 ## Research
 To understand the challenges, I conducted a deep dive into company operations:
