@@ -36,3 +36,5 @@ I am prioritizing the CareBridge Clinical Referral Platform as the primary "Proo
 3. **Efficiency as a Retention Tool:** CareBridge addresses P1 (Staffing) indirectly by automating the most tedious parts of the intake process (Insurance OCR and data entry). By reducing the "tool fatigue" and administrative burden on the Mission Center, we improve staff morale and reduce the burnout that leads to turnover.
 
 4. **Measurable 90-Day ROI:** CareBridge can be deployed as a "Thin Client" in 30 days, providing the Board with a measurable lift in admissions volume within a single quarter—something that a long-term cultural shift in staffing cannot provide.
+
+While the initial focus for MVP will be developing the portal, follow-on efforts can include development of the Knowledge Hub and feedback loops.
