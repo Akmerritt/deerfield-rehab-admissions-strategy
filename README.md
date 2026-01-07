@@ -42,7 +42,7 @@ A 90-day mentorship program paired with interactive, role-specific training modu
 
 ---
 
-## 🚀 Deliverable 3: Product Concept — CareBridge
+## Deliverable 3: Product Concept — CareBridge
 **The Solution:** A HIPAA-compliant interface that bridges the referring physician, the Business Development Officer (BDO), and the Mission Center.
 
 *   **Interactive Prototype: [View Live Demo](https://v0.app/chat/care-bridge-ui-shZ16yHAVKM?ref=L36LBK)**
@@ -56,7 +56,7 @@ A 90-day mentorship program paired with interactive, role-specific training modu
 
 ---
 
-## 🛠️ Technical Components & Assumptions
+## Technical Components & Assumptions
 
 ### Technical Logic
 *   **Frontend:** Next.js / Tailwind CSS; optimized for mobile "point-and-shoot" insurance uploads.
@@ -70,8 +70,8 @@ A 90-day mentorship program paired with interactive, role-specific training modu
 
 ---
 
-## 📈 Next Steps: 90-Day Roadmap
-*   **Phase 1 (Days 1-30):** Pilot CareBridge with Top 5 PCPs at 2 high-potential centers; launch scenario-based staff training to stabilize the Mission Center.
+## Next Steps: 90-Day Roadmap
+*   **Phase 1 (Days 1-30):** Pilot CareBridge with Top 5 PCPs at 2 high-potential centers.
 *   **Phase 2 (Days 30-60):** Integrate Salesforce Webhooks for automated status updates; reduce VOB latency via AI-OCR.
 *   **Phase 3 (Days 60-90):** Scale portal to all 11 centers; launch the Knowledge Hub to deepen clinical partnerships and drive long-term referral loyalty.
 
