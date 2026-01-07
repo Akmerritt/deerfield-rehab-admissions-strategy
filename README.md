@@ -47,22 +47,22 @@ A 90-day mentorship program paired with interactive, role-specific training modu
 ---
 
 ## Deliverable 3: Product Concept — CareBridge
-**The Solution:** A HIPAA-compliant interface that bridges the referring physician, the Business Development Officer (BDO), and the Mission Center.
+**The Solution:** A HIPAA-compliant interface that connects referring physicians directly with  Business Development Officers (BDOs) and the Mission Center.
 
 *   **Interactive Prototype: [View Live Demo](https://v0.app/chat/care-bridge-ui-shZ16yHAVKM?ref=L36LBK)**
 *   **Access Code:** `Deerfield2025`
 
 ### Key Features:
-*   **Continuum Capacity:** Live availability status for Detox, Residential, PHP, IOP, and Sober Living.
-*   **Fast-Track Intake:** 60-second referral form with integrated Insurance OCR for instant VOB initiation.
-*   **Referral Status Overview:** Real-time transparency into the clinical funnel (VOB → Assessment → Cleared → Admitted).
-*   **Continuity Loop:** Digital discharge summaries and scheduled follow-up appointments pushed back to the PCP to close the care cycle.
+*   **Up-to-date Capacity:** Live availability status for Detox, Residential, PHP, IOP, and Sober Living.
+*   **Fast-track Intake:** 60-second referral form with integrated Insurance OCR for instant VOB initiation.
+*   **Referral Status:** Real-time transparency into the clinical funnel (VOB → Assessment → Cleared → Admitted).
+*   **Discharge Information:** Digital discharge summaries and scheduled follow-up appointments pushed back to the PCP to close the care cycle.
 
 ---
 
 ## Key Assumptions
 1.  **Lead Intent:** Clinical referrals (PCPs/Therapists) have higher intent and longer length-of-stay (LOS) than digital leads, justifying the investment in a dedicated channel.
-2.  **Thin Client:** CareBridge acts as the "Face" while Salesforce/Five9 remains the "Brain" (System of Record). No duplicative database is required.
+2.  **Data Integration:** CareBridge acts as an interface on top of existing. Salesforce/Five9 systems. No duplicative database is required.
 3.  **Data Interoperability:** All 11 centers utilize EMR/CRM systems that support standard API integrations for real-time syncing.
 
 ---
