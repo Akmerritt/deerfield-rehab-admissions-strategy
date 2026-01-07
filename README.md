@@ -24,9 +24,9 @@ To understand the challenges, I conducted a deep dive into company operations:
 | :--- | :--- | :--- | :--- |
 | **P0** | Demand Gen | **Inadequate Channel Diversification** | **Critical:** Over-reliance on ER referrals; failure to capture high-intent PCP/Therapist demand. |
 | **P1** | Personnel | **Staffing Instability** | **High:** High turnover and 3- to 6-month staffing onboarding times disrupt provider relationships and lead to delays and errors during the intake process. |
-| **P3** | Operations | **Data Fragmentation** | **Med:** Manual use of PDFs/Excel outside of Salesforce causes miscommunication and intake delays. |
-| **P2** | Operations | **Insurance Verification (VOB) Latency** | **Med:** 24–48 hour wait times cause high-intent patients to drop off or call competitors. |
-
+| **P2** | Operations | **Data Fragmentation** | **Med:** Manual use of PDFs/Excel outside of Salesforce causes miscommunication and intake delays. |
+| **P3** | Operations | **Insurance Verification (VOB) Latency** | **Med:** 24–48 hour wait times cause high-intent patients to drop off or call competitors. |
+| **P4** | Operations | **Lack of homecare services** | **Med:** As patient demand for these services grows, this will be an important offering to remain competitive in the market. |
 ---
 
 ## Deliverable 2: Solution Ideas
