@@ -8,7 +8,7 @@ Based on research into the 11-center portfolio, the primary driver of declining 
 
 | Priority | Category | Pain Point | Business Impact |
 | :--- | :--- | :--- | :--- |
-| **P0** | Demand Gen | **Inadequate Channel Diversification** | **Critical:** Over-reliance on ERs. BDOs currently capture only 60% of clinical leads against a 75% target. |
+| **P0** | Demand Generation | **Inadequate Channel Diversification** | **Critical:** Over-reliance on ERs. BDOs currently capture only 60% of clinical leads against a 75% target. |
 | **P1** | Personnel | **Staffing Instability** | **High:** High turnover and 3-month onboarding times in the Mission Center (MC) disrupt referral relationships and intake accuracy. |
 | **P2** | Operations | **Data Fragmentation** | **Med:** Manual use of PDFs/Excel outside of Salesforce/Five9 leads to miscommunication and delayed handoffs. |
 | **P3** | Operations | **Insurance Verification (VOB) Latency** | **Med:** 24–48 hour wait times cause high-intent clinical leads to drop off or call competitors. |
