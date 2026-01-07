@@ -1,5 +1,3 @@
-Here is the finalized documentation in **GitHub Flavored Markdown (GFM)**. You can copy and paste this directly into your `README.md` file.
-
 ***
 
 # CareBridge: Scaling Admissions Volume for a Deerfield Portfolio Company
