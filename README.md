@@ -13,7 +13,7 @@ Over the last 24 months, the addiction treatment centers have had low admissions
 
 ## Research
 To understand the challenges, I conducted a deep dive into company operations:
-*   **Strategic Overview:** Interview with Sarah Chen (Chief of Staff) – Analyzed strategic gaps, competitive threats, and growth levels. The proposedr solutions were refined through interative feedback to ensure alignment with board-level objectives.
+*   **Strategic Overview:** Interview with Sarah Chen (Chief of Staff) – Analyzed strategic gaps, competitive threats, and growth levels. The proposed solutions were refined through interative feedback to ensure alignment with board-level objectives.
 *   **Frontline Research:** [Staff Insights (Call Center & BDOs)](./research/staff_insights.md) – Identified high personnel turnover,  prolonged onboarding cycles, and fragmented data systems as primary operational barriers to scaling admissions.
 
 ---
