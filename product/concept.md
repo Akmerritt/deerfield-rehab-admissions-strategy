@@ -11,20 +11,13 @@ This product directly addresses **Pain Point P0: Inadequate Referral Diversifica
 
 ### Primary Objectives
 *   **Efficient Handoffs:** Streamline the transition from primary care to specialized addiction treatment.
-*   **Real-Time Bed Visibility:** Provide live information about bed availability to prevent referral drop-off.
+*   **Real-Time Progress Updates:** Provide live information about patient progress for the end-to-end journey, as well as importsng center-specific information including bed availability and capabilities to support more specialized cases such as dual diagnosis.
 *   **Enhanced Care Coordination:** Ensure high-touch discharge planning through close collaboration with referring providers.
 
 ## Design Principles
 *   **Clean & Clinical:** Professional Medical UI with vast white space to reduce cognitive load.
 *   **High Trust:** Slate Gray accents and Medical Blue (#0056b3) primary branding.
 *   **Zero-Friction:** Minimal clicks, Doximity SSO, and "Magic-Link" authenticated access.
-
-## Key Components
-*   **Secure Referral Form:** HIPAA/42-CFR compliant intake with insurance card photo upload.
-*   **Real-Time Patient Tracker:** Lifecycle management showing patient progress from VOB to Discharge.
-*   **Bed Availability Dashboard:** Live capacity indicators for Detox, Residential, and Dual-Diagnosis.
-*   **Quality Metrics:** Transparency into completion rates and readmission data.
-*   **Doximity SSO:** Verified physician interface for rapid authentication.
 
 ## Interactive Prototype
 A live, functional preview of the CareBridge interface is available for review.
@@ -40,11 +33,13 @@ A live, functional preview of the CareBridge interface is available for review.
 *   **Compliance and security:** HIPAA/42-CFR compliant with end-to-end encryption for all PHI (Protected Health Information) and automated consent-to-release management for sensitive SUD records. 
 
 ## Key Features
-1.  **Real-Time Capacity:** Live availability for Detox, Residential, PHP, IOP, and Sober Living.
+1.  **Bed Availability Dashboard:** Live availability for Detox, Residential, PHP, IOP, and Sober Living.
 2.  **Fast-Track Intake:** Capture Patient Name, DOB, and Insurance Photo in under 60 seconds.
-3.  **Referral Status Tracker:** A 7-stage funnel (Contacting patient → VOB → Clinical Assessment → Medically Cleared → Bed Reserved → Admitted → Discharged).
+3.  **Real-Time Patient Tracker:** A 7-stage funnel suowing patient progress from initial contact to discharge (Contacting patient → VOB → Clinical Assessment → Medically Cleared → Bed Reserved → Admitted → Discharged).
 4.  **Integrated Care Coordination:** Contextual, patient-tethered chat between PCPs and our Mission Center specialists.
 5.  **Discharge Loop:** Automated Medication Reconciliation and scheduled follow-up appointments pushed back to the PCP.
+6.   **Quality Metrics:** Clinical Insights Dashboard where physycians can look at completion rates and readmission data, and compare their patients against the broader parient population. 
+7.   **Doximity SSO:** Verified physician interface for rapid authentication.
 
 ## 30-Day Pilot KPIs (Success Metrics)
 
