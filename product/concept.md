@@ -1,5 +1,5 @@
 # Product Concept: CareBridge
-**The "Zero-Friction" Digital Front Door for Clinical Referrals.**
+**The "Zero-Friction" Digital Front Door for Clinical Referrals**
 
 ## Vision
 CareBridge is a clinician referral portal that bridges the gap between referring clinicians and our Mission Center. It is architected to sit on top of our existing Salesforce/Five9 stack.
