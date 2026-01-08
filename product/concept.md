@@ -10,9 +10,9 @@ CareBridge is a clinician referral portal that bridges the gap between referring
 This product directly addresses **Pain Point P0: Inadequate Referral Diversification**. By providing a frictionless "zero-login" referral path, we aim to scale our clinical referral pipeline and grow admissions volume. We will pilot this product at 1-2 high-potential centers before a broader rollout.
 
 ### Primary Objectives
-*   **Efficient Handoffs:** Streamline the transition from primary care to specialized addiction treatment.
+*   **Efficient Intake:** Streamline the transition from primary care to specialized addiction treatment.
 *   **Real-Time Progress Updates:** Provide live information about patient progress for the end-to-end journey, as well as importsng center-specific information including bed availability and capabilities to support more specialized cases such as dual diagnosis.
-*   **Enhanced Care Coordination:** Ensure high-touch discharge planning through close collaboration with referring providers.
+*   **Enhanced Care Coordination and Discharge Planning:** Ensure high-touch planning for discharge abd outpatient services through close collaboration with referring providers.
 
 ## Design Principles
 *   **Clean & Clinical:** Professional Medical UI with vast white space to reduce cognitive load.
