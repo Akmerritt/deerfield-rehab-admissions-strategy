@@ -42,7 +42,7 @@ A lightweight portal where PCPs and therapists can submit a referral in under 60
 A CME-accredited program for clinicians regarding early intervention and post-rehab management. Includes an automated feedback loop that sends recovery milestones (with consent) back to the referring physician to prove treatment efficacy and build thought leadership.
 
 ### 3. Mentorship & Scenario-Based Onboarding (P1)
-A 90-day mentorship program paired with interactive, role-specific training modules. This reduces the staff "competency ramp-up" time from months to weeks, stabilizing the Mission Center infrastructure to support increased referral volume.
+A 90-day mentorship program paired with interactive, role-specific training modules. This reduces the staff ramp-up time from months to weeks, stabilizing the Mission Center infrastructure to support increased referral volume.
 
 ---
 
