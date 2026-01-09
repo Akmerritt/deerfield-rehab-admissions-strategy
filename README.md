@@ -6,7 +6,7 @@
 ## Executive Summary
 A Deerfield portfolio company is looking to increase admissions volume across its 11 treatment addiction centers in the US. The company has seen a decline in patient call volume over the last 24 months, in a setting of increased competition, growing demand for homecare services, and changes in how patients are seeking treatment with a shift towards digital channels. 
 
-In order to achieve their growth target, they will need to  expand their channel strategy to target high-intent clinical referrals (PCPs and therapists). 
+In order to achieve their growth target, they will need to  expand their channel strategy to target high-intent clinical referrals from PCPs and therapists. 
 
 This project introduces **CareBridge**, a digital portal designed to capture this market by establishing robust communication with referring providers, to improve patient outcomes and build trust and long-term relationships with clinicians.
 
